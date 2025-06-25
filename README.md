@@ -1,9 +1,30 @@
-<p align="center">
-  <img src="https://i.ibb.co/vPzR0cH/github-banner.png" alt="Banner" />
-</p>
+<!-- Background Animation Style for GitHub Profile README (Without Image) -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ulfath Ara Islam</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer | Learner | Dreamer</h3>
+<style>
+  .animated-background {
+    background: linear-gradient(270deg, #ff7eb3, #ff758c, #ff7eb3);
+    background-size: 600% 600%;
+    animation: gradientShift 8s ease infinite;
+    padding: 20px;
+    border-radius: 12px;
+    color: white;
+  }
+
+  @keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
+
+<div class="animated-background">
+  <h1>Hi 👋, I'm Ulfath Ara Islam</h1>
+  <h3>🚀 A Passionate Frontend Developer | Learner | Dreamer</h3>
+</div>
+
+</div>
+
 
 ---
 
