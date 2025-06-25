@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/ZRxfZyP3/web-design-concept-with-flat-design-23-2147851628.jpg" alt="Banner" />
+  <img src="https://i.ibb.co/HLvJmyC7/binary-code-white-background-with-floating-numbers-1017-25331.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ulfath Ara Islam</h1>
