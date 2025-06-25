@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[[https://i.ibb.co/vPzR0cH/github-banner.png](https://i.ibb.co/ZRxfZyP3/web-design-concept-with-flat-design-23-2147851628.jpg)](https://i.ibb.co/ZRxfZyP3/web-design-concept-with-flat-design-23-2147851628.jpg)" alt="Banner" />
+  <img src="https://i.ibb.co/ZRxfZyP3/web-design-concept-with-flat-design-23-2147851628.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ulfath Ara Islam</h1>
