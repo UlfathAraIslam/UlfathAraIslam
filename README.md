@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.ibb.co/HLvJmyC7/binary-code-white-background-with-floating-numbers-1017-25331.jpg](https://i.ibb.co/n8c6XYZV/raw-se-2025-07-15-T14-05-49-Z-sp-r-sv-2024-08-04-sr-b-scid-695a8fd0-0646-5c51-af30-2f2dde02ae28-skoi.png)" alt="Banner" />
+  <img src="https://i.ibb.co/n8c6XYZV/raw-se-2025-07-15-T14-05-49-Z-sp-r-sv-2024-08-04-sr-b-scid-695a8fd0-0646-5c51-af30-2f2dde02ae28-skoi.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ulfath Ara Islam</h1>
